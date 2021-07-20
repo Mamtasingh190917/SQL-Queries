@@ -1,0 +1,8 @@
+Lets consider that we have a table name employee and we want to see the information in the same 
+
+We can execute the below SQL 
+
+Select * from employee
+
+This query will print\fetch all the data from the table employee and will show us on the screen of the tool which we are 
+ussing and we can download the results into CSV\excel based on the tools functions offered. 
