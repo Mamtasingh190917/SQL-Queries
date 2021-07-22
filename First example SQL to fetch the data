@@ -6,3 +6,9 @@ Select * from employee
 
 This query will print\fetch all the data from the table employee and will show us on the screen of the tool which we are 
 ussing and we can download the results into CSV\excel based on the tools functions offered. 
+
+Want to select the specific columns then write below query 
+
+Select Name,Dept from employee
+
+Where we are trying to fetch the Name and Dept colums from employee table 
